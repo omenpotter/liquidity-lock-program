@@ -3,15 +3,6 @@ use anchor_spl::token::{self, Token, TokenAccount, Transfer, Mint};
 
 declare_id!("BLM1UpG3ZJQnini6sG3oqznTQnsZCCuPUaLDVHEH4Ka1");
 
-#[cfg(not(feature = "no-entrypoint"))]
-solana_security_txt::security_txt! {
-    name: "Liquidity Lock",
-    project_url: "https://github.com/omenpotter/liquidity-lock-program",
-    contacts: "https://github.com/omenpotter/liquidity-lock-program/security/advisories/new",
-    policy: "https://github.com/omenpotter/liquidity-lock-program/blob/main/SECURITY.md",
-    source_code: "https://github.com/omenpotter/liquidity-lock-program"
-}
-
 #[program]
 pub mod liquidity_lock_program {
     use super::*;

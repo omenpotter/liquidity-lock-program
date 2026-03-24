@@ -1,4 +1,11 @@
-Contact: https://github.com/omenpotter/liquidity-lock-program/security/advisories/new
-Canonical: https://github.com/omenpotter/liquidity-lock-program/blob/main/security.txt
-Preferred-Languages: en
-Policy: https://github.com/omenpotter/liquidity-lock-program/blob/main/SECURITY.md
+# Solana Security.txt
+# https://github.com/neodyme-labs/solana-security-txt
+
+name = "Liquidity Lock"
+project_url = "https://github.com/omenpotter/liquidity-lock-program"
+contacts = "https://github.com/omenpotter/liquidity-lock-program/security/advisories/new"
+policy = "https://github.com/omenpotter/liquidity-lock-program/blob/main/SECURITY.md"
+source_code = "https://github.com/omenpotter/liquidity-lock-program"
+source_release = "v1.0.0"
+source_revision = "790a2bc"
+auditors = "Self-audited"

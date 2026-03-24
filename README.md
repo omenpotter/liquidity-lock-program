@@ -153,3 +153,21 @@ This software is provided "as is" without warranty. Use at your own risk. Always
 - [ ] Source code verification
 - [ ] Extended lock duration feature
 - [ ] Partial unlock support
+
+---
+
+## 🔗 Links
+
+- **Explorer**: [View on X1 Explorer](https://explorer.mainnet.x1.xyz/address/BLM1UpG3ZJQnini6sG3oqznTQnsZCCuPUaLDVHEH4Ka1)
+- **Source Code**: [GitHub Repository](https://github.com/omenpotter/liquidity-lock-program)
+- **Security**: [Security Policy](./SECURITY.md)
+- **Verification**: [Build Guide](./VERIFICATION.md)
+
+---
+
+## 🔗 Links
+
+- **Explorer**: [View on X1 Explorer](https://explorer.mainnet.x1.xyz/address/BLM1UpG3ZJQnini6sG3oqznTQnsZCCuPUaLDVHEH4Ka1)
+- **Source Code**: [GitHub Repository](https://github.com/omenpotter/liquidity-lock-program)
+- **Security**: [Security Policy](./SECURITY.md)
+- **Verification**: [Build Guide](./VERIFICATION.md)
