@@ -1,0 +1,24 @@
+Build Information
+=================
+
+Program: Liquidity Lock
+Network: X1 Mainnet
+Program ID: BLM1UpG3ZJQnini6sG3oqznTQnsZCCuPUaLDVHEH4Ka1
+
+Build Environment:
+- Rust: nightly
+- Anchor: 0.32.1
+- Solana: 3.1.11
+- OS: Ubuntu 24.04 (WSL2)
+
+Build Command:
+anchor build
+
+Deployment Command:
+solana program deploy target/deploy/liquidity_lock_program.so
+
+Verification:
+To verify this build matches the deployed program:
+1. Install same Rust/Anchor versions
+2. Run: anchor build
+3. Compare hash of target/deploy/liquidity_lock_program.so

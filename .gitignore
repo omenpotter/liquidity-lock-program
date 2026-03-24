@@ -1,0 +1,46 @@
+# Anchor
+.anchor
+target/
+**/*.rs.bk
+node_modules/
+test-ledger/
+
+# IDL
+!target/idl/
+!target/types/
+
+# Build artifacts
+*.so
+*.wasm
+
+# OS
+.DS_Store
+**/.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Yarn
+yarn-error.log
+
+# Environment
+.env
+.env.local
+
+# Test files
+test-lock.js
+test-lock-fixed.js
+test-lock-simple.js
+test-full-lock-flow.ts
+test-lock.ts
+test-lock-tokens.ts
+create-token.ts
+
+# Wallet files
+*.json
+!package.json
+!tsconfig.json
+!program-metadata.json

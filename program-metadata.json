@@ -1,0 +1,27 @@
+{
+  "name": "Liquidity Lock",
+  "version": "1.0.0",
+  "description": "Time-locked token escrow program for X1 blockchain",
+  "program_id": "BLM1UpG3ZJQnini6sG3oqznTQnsZCCuPUaLDVHEH4Ka1",
+  "network": "x1-mainnet",
+  "repository": "https://github.com/yourproject/liquidity-lock",
+  "authors": [
+    "X1Nexus Team"
+  ],
+  "license": "MIT",
+  "features": [
+    "Time-locked escrow",
+    "PDA-based custody",
+    "Prevent early unlock",
+    "Transfer ownership"
+  ],
+  "audit": {
+    "status": "self-audited",
+    "date": "2026-03-23"
+  },
+  "deployment": {
+    "slot": 38375644,
+    "transaction": "5pPNPP8YbSsmYZJpYEKbKm9vXKrMQJ15BVqkcEzUDTsxjunLww9KjaZ4QYBRZu381TidvQGrUaDdo6K7n2R4wf2P",
+    "authority": "C5V1AaFcE8WSEWaC6gb1w3mcXd3JbdgJ7yXYBuoxphGZ"
+  }
+}
