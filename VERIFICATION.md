@@ -25,7 +25,7 @@ sh -c "$(curl -sSfL https://release.solana.com/v1.18.26/install)"
 ## Build Steps
 ```bash
 # Clone repository
-git clone https://github.com/yourproject/liquidity-lock
+git clone https://github.com/omenpotter/liquidity-lock-program
 cd liquidity-lock
 
 # Build

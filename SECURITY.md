@@ -9,7 +9,7 @@
 ## Contact
 For security issues, please contact:
 - **Email**: security@x1nexus.com (update with your email)
-- **GitHub**: https://github.com/yourproject/security (update with your repo)
+- **GitHub**: https://github.com/omenpotter/liquidity-lock-program/security (update with your repo)
 
 ## Security Features
 - Time-locked token escrow
