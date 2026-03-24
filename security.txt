@@ -1,6 +1,5 @@
-Contact: security@x1nexus.com
-Canonical: https://github.com/omenpotter/liquidity-lock-program/blob/main/SECURITY.md
+Contact: https://github.com/omenpotter/liquidity-lock-program/security/advisories/new
+Canonical: https://github.com/omenpotter/liquidity-lock-program/blob/main/security.txt
 Encryption: https://github.com/omenpotter/liquidity-lock-program/blob/main/SECURITY.md
-Acknowledgments: https://github.com/omenpotter/liquidity-lock-program/blob/main/SECURITY.md
 Preferred-Languages: en
 Policy: https://github.com/omenpotter/liquidity-lock-program/blob/main/SECURITY.md
